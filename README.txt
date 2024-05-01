@@ -8,3 +8,10 @@ The training for the model takes place in distilBERT.ipynb
 - Libraries needed: torch, torchvision, torchaudio, datasets, transformers, accelerate
 
 An example of how to load the model is in loading_model.ipynb 
+
+
+1. Download data
+2. Install libraries
+3. Run distilBERT.ipynb
+4. Run loading_model.ipynb
+5. For evaluation benchmarking -> go to final_model_for_eval
